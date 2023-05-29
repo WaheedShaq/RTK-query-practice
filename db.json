@@ -1,5 +1,150 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Ebony Marvin",
+      "id": 2
+    },
+    {
+      "name": "Gwendolyn Koepp",
+      "id": 3
+    },
+    {
+      "name": "Nancy Ruecker",
+      "id": 4
+    },
+    {
+      "name": "Alton Moore",
+      "id": 5
+    },
+    {
+      "name": "Mrs. Darlene Oberbrunner III",
+      "id": 6
+    },
+    {
+      "name": "Evan Davis",
+      "id": 7
+    },
+    {
+      "name": "Leona Reilly",
+      "id": 8
+    },
+    {
+      "name": "Miss Patti Schmeler",
+      "id": 9
+    },
+    {
+      "name": "Miss Mae Bode Jr.",
+      "id": 10
+    },
+    {
+      "name": "Juan Schaefer",
+      "id": 11
+    },
+    {
+      "name": "Lori McLaughlin Sr.",
+      "id": 12
+    },
+    {
+      "name": "Miss Katherine Schumm",
+      "id": 13
+    },
+    {
+      "name": "Mrs. Billie Stracke I",
+      "id": 14
+    },
+    {
+      "name": "Marguerite Bailey",
+      "id": 15
+    },
+    {
+      "name": "Bradford Wuckert",
+      "id": 16
+    },
+    {
+      "name": "Mr. Pedro Bauch",
+      "id": 17
+    },
+    {
+      "name": "Perry Mosciski IV",
+      "id": 18
+    },
+    {
+      "name": "Erika Kerluke II",
+      "id": 19
+    },
+    {
+      "name": "Wendy Medhurst",
+      "id": 20
+    },
+    {
+      "name": "Ashley Wolf",
+      "id": 21
+    },
+    {
+      "name": "Roy Macejkovic",
+      "id": 22
+    },
+    {
+      "name": "Marion Hickle",
+      "id": 23
+    },
+    {
+      "name": "Opal Cassin",
+      "id": 24
+    },
+    {
+      "name": "Violet Howe I",
+      "id": 25
+    },
+    {
+      "name": "Jeannette Harris",
+      "id": 26
+    },
+    {
+      "name": "Amelia Von",
+      "id": 27
+    },
+    {
+      "name": "Kelley Heathcote",
+      "id": 28
+    },
+    {
+      "name": "Emmett Dickinson",
+      "id": 29
+    },
+    {
+      "name": "Felix Heathcote",
+      "id": 30
+    },
+    {
+      "name": "Mrs. Marcia Dicki",
+      "id": 31
+    },
+    {
+      "name": "Ruth Trantow",
+      "id": 32
+    },
+    {
+      "name": "Amber Schmitt",
+      "id": 33
+    },
+    {
+      "name": "Rose Shanahan",
+      "id": 34
+    },
+    {
+      "name": "Mr. Lowell O'Conner",
+      "id": 35
+    },
+    {
+      "name": "Warren Bartell",
+      "id": 36
+    }
+  ],
   "albums": [],
   "photos": []
 }
