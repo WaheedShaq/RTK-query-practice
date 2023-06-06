@@ -15,84 +15,14 @@
     {
       "name": "Mrs. Darlene Oberbrunner III",
       "id": 6
-    },
-    {
-      "name": "Leona Reilly",
-      "id": 8
-    },
-    {
-      "name": "Roy Macejkovic",
-      "id": 22
-    },
-    {
-      "name": "Marion Hickle",
-      "id": 23
-    },
-    {
-      "name": "Opal Cassin",
-      "id": 24
-    },
-    {
-      "name": "Violet Howe I",
-      "id": 25
-    },
-    {
-      "name": "Jeannette Harris",
-      "id": 26
-    },
-    {
-      "name": "Amelia Von",
-      "id": 27
-    },
-    {
-      "name": "Kelley Heathcote",
-      "id": 28
-    },
-    {
-      "name": "Emmett Dickinson",
-      "id": 29
-    },
-    {
-      "name": "Felix Heathcote",
-      "id": 30
-    },
-    {
-      "name": "Mrs. Marcia Dicki",
-      "id": 31
-    },
-    {
-      "name": "Ruth Trantow",
-      "id": 32
-    },
-    {
-      "name": "Amber Schmitt",
-      "id": 33
-    },
-    {
-      "name": "Rose Shanahan",
-      "id": 34
-    },
-    {
-      "name": "Mr. Lowell O'Conner",
-      "id": 35
-    },
-    {
-      "name": "Warren Bartell",
-      "id": 36
-    },
-    {
-      "name": "Christina Lemke",
-      "id": 37
-    },
-    {
-      "name": "Miss Jeanne Effertz DDS",
-      "id": 38
-    },
-    {
-      "name": "Bridget Stracke",
-      "id": 39
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": "1"
+    }
+  ],
   "photos": []
 }
